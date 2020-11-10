@@ -1,5 +1,14 @@
-div{
-    background: red;
-    color: #FFF;
+#container{
 
+    width: 500px;
+    height: 400px;
+    padding: 30px;
+    border: 2px solid #FF0000;
+    margin: 30px;
+    box-sizing: border-box;
+}
+
+span{
+    background: brown;
+    display: block;
 }
